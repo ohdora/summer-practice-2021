@@ -246,7 +246,7 @@ cv2.destroyAllWindows()
             # cv2.imshow('Defects!', picture)
 ```
 ![Image Caption](images/11.jpg)
->Объяснение работы алгоритма: [Convexity Defects OpenCV](https://theailearner.com/2020/11/09/convexity-defects-opencv/).
+>Объяснение работы алгоритма: [Convexity Defects OpenCV](https://www.programcreek.com/python/?project_name=lzane%2FFingers-Detection-using-OpenCV-and-Python#).
 
 ---
 
